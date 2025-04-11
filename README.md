@@ -2,7 +2,7 @@
 
 > ❝ 002 ❞
 
-My ever-evolving dotfiles setup for a cozy, clean, and catppuccin-powered i3 environment on **Debian 12 (Bookworm)**. Built with intention, minimalism, and a little rebellious soul. 🖤
+My ever-evolving dotfiles setup for a cozy, clean, and catppuccin-powered i3 environment on **Debian 12 (Bookworm)**.
 
 ---
 
@@ -23,7 +23,7 @@ My ever-evolving dotfiles setup for a cozy, clean, and catppuccin-powered i3 env
 
 ## 🎨 Theming
 
-- **🌙 Theme**: [Catppuccin Mocha - Mauve](https://github.com/catppuccin)
+- **🌙 Theme**: [Catppuccin Mocha](https://github.com/catppuccin)
 - **📁 Icons**: Papirus + Catppuccin Folder Icons
 - **🖋 Font**: Sans 10
 - **📐 GTK Theme**: ThinIce (GTK2/3)
